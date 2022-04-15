@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Greystone-Winery-Page/static/css/main.10e718e8.css",
+    "main.js": "/Greystone-Winery-Page/static/js/main.7980ca5e.js",
+    "static/js/787.87b7834b.chunk.js": "/Greystone-Winery-Page/static/js/787.87b7834b.chunk.js",
+    "static/media/Greystone_Winery.mp4": "/Greystone-Winery-Page/static/media/Greystone_Winery.32ea94402fd52f278c6f.mp4",
+    "static/media/team2.jpg": "/Greystone-Winery-Page/static/media/team2.4066d15d711d51d2e163.jpg",
+    "static/media/wine2.jpg": "/Greystone-Winery-Page/static/media/wine2.d0939de4e47b9720545a.jpg",
+    "static/media/team3.jpg": "/Greystone-Winery-Page/static/media/team3.b7c472e6fc348c49b42a.jpg",
+    "static/media/team1.jpg": "/Greystone-Winery-Page/static/media/team1.566655865ba58b9e0410.jpg",
+    "static/media/wine3.jpg": "/Greystone-Winery-Page/static/media/wine3.af4e4fc433f17e07ed4c.jpg",
+    "static/media/wine5.jpg": "/Greystone-Winery-Page/static/media/wine5.82635aacf4284d5817fe.jpg",
+    "static/media/wine4.jpg": "/Greystone-Winery-Page/static/media/wine4.d3c49d316307e8c4c8ec.jpg",
+    "static/media/logo.png": "/Greystone-Winery-Page/static/media/logo.7d4d540bd9175f01e18a.png",
+    "index.html": "/Greystone-Winery-Page/index.html",
+    "main.10e718e8.css.map": "/Greystone-Winery-Page/static/css/main.10e718e8.css.map",
+    "main.7980ca5e.js.map": "/Greystone-Winery-Page/static/js/main.7980ca5e.js.map",
+    "787.87b7834b.chunk.js.map": "/Greystone-Winery-Page/static/js/787.87b7834b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e718e8.css",
+    "static/js/main.7980ca5e.js"
+  ]
+}
