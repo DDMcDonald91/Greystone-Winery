@@ -60,12 +60,13 @@
   margin: 20px auto;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 550px) {
   #hero video {
     height: 400px;;
   }
   #form-container {
-    width: auto;
+    width: 80%;
+    margin: 10px auto;
   }
   #details-pic-container {
     display: none;
