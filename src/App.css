@@ -65,7 +65,7 @@
     height: 400px;;
   }
   #form-container {
-    width: 80%;
+    width: auto;
     margin: 10px auto;
   }
   #details-pic-container {
