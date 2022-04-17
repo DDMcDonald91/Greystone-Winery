@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Greystone-Winery-Page/static/css/main.10e718e8.css",
+    "main.css": "/Greystone-Winery-Page/static/css/main.7314a4ab.css",
     "main.js": "/Greystone-Winery-Page/static/js/main.7980ca5e.js",
     "static/js/787.87b7834b.chunk.js": "/Greystone-Winery-Page/static/js/787.87b7834b.chunk.js",
     "static/media/Greystone_Winery.mp4": "/Greystone-Winery-Page/static/media/Greystone_Winery.32ea94402fd52f278c6f.mp4",
@@ -13,12 +13,12 @@
     "static/media/wine4.jpg": "/Greystone-Winery-Page/static/media/wine4.d3c49d316307e8c4c8ec.jpg",
     "static/media/logo.png": "/Greystone-Winery-Page/static/media/logo.7d4d540bd9175f01e18a.png",
     "index.html": "/Greystone-Winery-Page/index.html",
-    "main.10e718e8.css.map": "/Greystone-Winery-Page/static/css/main.10e718e8.css.map",
+    "main.7314a4ab.css.map": "/Greystone-Winery-Page/static/css/main.7314a4ab.css.map",
     "main.7980ca5e.js.map": "/Greystone-Winery-Page/static/js/main.7980ca5e.js.map",
     "787.87b7834b.chunk.js.map": "/Greystone-Winery-Page/static/js/787.87b7834b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10e718e8.css",
+    "static/css/main.7314a4ab.css",
     "static/js/main.7980ca5e.js"
   ]
 }
